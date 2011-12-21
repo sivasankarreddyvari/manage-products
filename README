@@ -19,7 +19,7 @@ Give the project folder name to HTTP_ROOT variable defined in app/Config/bootstr
 
 Once extract the folder:
 1.Give the full permission to app/tmp folder.
-2.Give the full permission to app/webroot/img folder (this contain sub folder)
+2.Give the full permission to app/webroot/img folder (this contain sub folders)
  
 ======================================================================
 Usage
