@@ -10,10 +10,14 @@ Installation
 Create a database
 Import manage_products.sql to the newly created database
 Give the database user name, password and database name in app/Config/database.php
-Extract the given zip file to the virtual directory
+
+Download the files from below url:
+https://github.com/reddyShiva/manage-products/downloads
+
+Extract the above downloaded zip file to the virtual directory
 Give the project folder name to HTTP_ROOT variable defined in app/Config/bootstrap.php
 
-Give the full permission to app/tmp folder. 
+Once extract the folder give the full permission to app/tmp folder. 
 ======================================================================
 Usage
 ------
