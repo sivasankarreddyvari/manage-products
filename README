@@ -24,7 +24,7 @@ Once extract the folder:
 ======================================================================
 Usage
 ------
-Url : http://localhost/%project_folder%/
+Frontend URL : http://localhost/%project_folder%/
 
 For Admin Panel : http://localhost/%project_folder%/admin/Categories
 
