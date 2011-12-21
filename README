@@ -17,7 +17,10 @@ https://github.com/reddyShiva/manage-products/downloads
 Extract the above downloaded zip file to the virtual directory
 Give the project folder name to HTTP_ROOT variable defined in app/Config/bootstrap.php
 
-Once extract the folder give the full permission to app/tmp folder. 
+Once extract the folder:
+1.Give the full permission to app/tmp folder.
+2.Give the full permission to app/webroot/img folder (this contain sub folder)
+ 
 ======================================================================
 Usage
 ------
