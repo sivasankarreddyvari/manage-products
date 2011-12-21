@@ -1,4 +1,0 @@
-#Sat Dec 19 00:35:12 IST 2020
-eclipse.preferences.version=1
-include_path=5;com.zend.php.phpunit.CONTAINER\u00055;org.zend.php.framework.CONTAINER\u00050;/camo-test
-use_asp_tags_as_php=false
