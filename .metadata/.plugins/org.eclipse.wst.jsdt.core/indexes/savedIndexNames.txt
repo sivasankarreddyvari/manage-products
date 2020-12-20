@@ -1,0 +1,2 @@
+INDEX VERSION 1.122+/var/www/camo-test/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4158322528.index
